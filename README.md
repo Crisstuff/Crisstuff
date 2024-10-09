@@ -1,18 +1,12 @@
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://crisstuff.github.io/)
+
 # Crisstuff 👋
 
-**Crisstuff/Crisstuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ## About Me:
-- 🔭 I’m currently working on Portfoliowebsite
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on my Portfoliowebsite
+- 🌱 I’m currently learning python 
 - 📫 How to reach me:
   
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 ### Protfolio website
 [Portfolio website](https://crisstuff.github.io/)
 
