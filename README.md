@@ -30,4 +30,7 @@ $\color{yellow}{\text{↳}}$ $\color{yellow}{\text{Crisstuff}}$
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Crisstuff&theme=highcontrast&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisstuff&bg_color=000000&text_color=ffff00&title_color=ffff00)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Crisstuff&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+
 
