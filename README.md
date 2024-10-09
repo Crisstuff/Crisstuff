@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 $\color{yellow}{\text{↳}}$ $\color{yellow}{\text{Crisstuff}}$
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Extoren&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Extoren&theme=highcontrast&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Extoren&bg_color=000000&text_color=ffff00&title_color=ffff00)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Crisstuff&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Crisstuff&theme=highcontrast&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisstuff&bg_color=000000&text_color=ffff00&title_color=ffff00)](https://github.com/anuraghazra/github-readme-stats)
 
 
