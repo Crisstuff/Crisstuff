@@ -3,9 +3,9 @@
 # Crisstuff 👋
 
 ## About Me:
-- 🔭 I’m currently working on my Portfoliowebsite
-- 🌱 I’m currently learning python 
-- 📫 How to reach me:
+- 🔭 I’m currently working on: my Portfoliowebsite
+- 🌱 I’m currently learning: python 
+- 📫 How to reach me: tlf:+47 48188484 E-post: cristofferfolkedalrramsdal@gmail.com
   
 ### Protfolio website
 [Portfolio website](https://crisstuff.github.io/)
