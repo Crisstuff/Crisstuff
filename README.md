@@ -9,8 +9,6 @@
 - 🔭 I’m currently working on: My final Exam's
 - 🌱 I’m currently learning: Databases
 - 📫 How to reach me: tlf:+47 48188484 E-post: cristofferfolkedalrramsdal@gmail.com
-  
-### Protfolio website = kommer snart
 
 
 ## 🎓🤓 Languages and Tools 🛠️:
