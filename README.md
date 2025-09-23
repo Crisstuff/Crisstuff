@@ -6,8 +6,8 @@
 # Crisstuff 👋
 * <a href="https://crisstuff.github.io">Link to my portofino website Status: Unfinished</a>
 ## About Me:
-- 🔭 I’m currently working on: My final Exam's
-- 🌱 I’m currently learning: Databases
+- 🔭 I’m currently working on:
+- 🌱 I’m currently learning:
 - 📫 How to reach me: tlf:+47 48188484 E-post: cristofferfolkedalrramsdal@gmail.com
 
 
