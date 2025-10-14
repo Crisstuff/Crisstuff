@@ -4,7 +4,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://crisstuff.github.io/)
 
 # Crisstuff 👋
-* <a href="https://crisstuff.github.io">Link to my portofino website Status: Unfinished</a>
 ## About Me:
 - 🔭 I’m currently working on:
 - 🌱 I’m currently learning:
