@@ -3,7 +3,7 @@
 
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://crisstuff.github.io/)
 
-# Crisstuff 👋
+# Hey there i am Cristoffer Ramsdal 👋
 ## About Me:
 - 🔭 <b> I’m currently working at: </b> Statnett as a IT development apprentice
 - 🌱 <b> I’m currently learning: </b> React with type script
@@ -63,14 +63,25 @@
 $\color{yellow}{\text{↳}}$ $\color{yellow}{\text{Crisstuff}}$
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Crisstuff&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Crisstuff&theme=highcontrast&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisstuff&bg_color=000000&text_color=ffff00&title_color=ffff00)](https://github.com/anuraghazra/github-readme-stats)
+<a> 
+  <a href="https://github.com/crisstuff"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=crisstuff&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/crisstuff"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=crisstuff&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Crisstuff&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Crisstuff&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Crisstuff&theme=radical&border=7F3FBF&background=0D1117)<br/>
+
+<a href="https://github.com/crisstuff">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crisstuff&theme=radical" alt="Crisstuff's GitHub Contribution"/>
+</a>
+
+![Crisstuff's Graph](https://github-readme-activity-graph.vercel.app/graph?username=crisstuff&custom_title=Crisstuff's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
