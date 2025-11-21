@@ -5,7 +5,7 @@
 
 # Hey there i am Cristoffer Ramsdal 👋
 ## About Me:
-- 🔭 <b> I’m currently working at: </b> Statnett as a IT development apprentice
+- 🔭 <b> I’m currently working at: </b> Statnett as a IT-development apprentice
 - 🌱 <b> I’m currently learning: </b> React with type script
 - 📫 <b> How to reach me: </b> Tlf: +47 48188484 & E-mail: cristofferfolkedalrramsdal@gmail.com
 
