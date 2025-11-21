@@ -3,7 +3,7 @@
 
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://crisstuff.github.io/)
 
-# Hey there i am Cristoffer Ramsdal 👋
+# Hey there my name is Cristoffer👋
 ## About Me:
 - 🔭 <b> I’m currently working at: </b> Statnett as a IT-Development apprentice
 - 🌱 <b> I’m currently learning: </b> React with type script
