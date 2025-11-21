@@ -5,8 +5,8 @@
 
 # Crisstuff 👋
 ## About Me:
-- 🔭 I’m currently working on:
-- 🌱 I’m currently learning:
+- 🔭 I’m currently working at: Statnett as a IT development apprentice
+- 🌱 I’m currently learning: React with type script
 - 📫 How to reach me: tlf:+47 48188484 E-post: cristofferfolkedalrramsdal@gmail.com
 
 
