@@ -55,6 +55,7 @@
   [![Website](https://img.shields.io/badge/Website-DC143C.svg?style=for-the-badge&logo=medium&logoColor=white)](https://crisstuff.github.io/)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristoffer-folkedal-ramsdal-0aa586292/)
   [![Instagram](https://img.shields.io/badge/instagram-%FE4164.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/in/cristoffer-folkedal-ramsdal-0aa586292/)
+  [![Pinterest](https://img.shields.io/badge/pinterest-DC143C.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://no.pinterest.com/CristofferFolkedalRamsdal/)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@cristofferfolkedalrramsdal2763)
   
 </p>
