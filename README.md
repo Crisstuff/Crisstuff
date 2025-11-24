@@ -24,30 +24,16 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
 ![Azure](https://img.shields.io/badge/Azure-007acc?style=for-the-badge&labelColor=black&logo=azure&logoColor=007acc)
+![Linux](https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&labelColor=black&logo=linux&logoColor=F0DB4F)
+![MySQL](https://img.shields.io/badge/MySQL-F0DB4F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F0DB4F)
+
+![Blender](https://img.shields.io/badge/Blender-EA7701?style=for-the-badge&labelColor=white&logo=blender&logoColor=F0DB4F)
+![Figma](https://img.shields.io/badge/Figma-FD3D39?style=for-the-badge&labelColor=black&logo=figma&logoColor=F0DB4F)
+![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=31A8FF)
+![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator-271910?style=for-the-badge&labelColor=black&logo=adobeillustrator&logoColor=F0DB4F)
 
 
 
-<p align="center">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-</p>
-<hr/>
 
 ## 🌐 Socials:
 
