@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
 ![Azure](https://img.shields.io/badge/Azure-007acc?style=for-the-badge&labelColor=black&logo=azure&logoColor=007acc)
 ![Linux](https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&labelColor=black&logo=linux&logoColor=F0DB4F)
-![MySQL](https://img.shields.io/badge/MySQL-F0DB4F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F0DB4F)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
 
 ![Blender](https://img.shields.io/badge/Blender-EA7701?style=for-the-badge&labelColor=white&logo=blender&logoColor=F0DB4F)
 ![Figma](https://img.shields.io/badge/Figma-FD3D39?style=for-the-badge&labelColor=black&logo=figma&logoColor=F0DB4F)
