@@ -27,10 +27,10 @@
 [![Linux](https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&labelColor=black&logo=linux&logoColor=F0DB4F)](https://en.wikipedia.org/wiki/Linux)
 [![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-![Blender](https://img.shields.io/badge/Blender-EA7701?style=for-the-badge&labelColor=white&logo=blender&logoColor=F0DB4F)
-![Figma](https://img.shields.io/badge/Figma-FD3D39?style=for-the-badge&labelColor=black&logo=figma&logoColor=F0DB4F)
-![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=31A8FF)
-![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator-271910?style=for-the-badge&labelColor=black&logo=adobeillustrator&logoColor=F0DB4F)
+[![Blender](https://img.shields.io/badge/Blender-EA7701?style=for-the-badge&labelColor=white&logo=blender&logoColor=F0DB4F)](https://www.blender.org/)
+[![Figma](https://img.shields.io/badge/Figma-FD3D39?style=for-the-badge&labelColor=black&logo=figma&logoColor=F0DB4F)](https://www.figma.com/)
+[![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=31A8FF)](https://www.adobe.com/)
+[![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator-271910?style=for-the-badge&labelColor=black&logo=adobeillustrator&logoColor=F0DB4F)](https://www.adobe.com/)
 
 
 
