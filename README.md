@@ -12,23 +12,29 @@
 
 ## 🎓🤓 Languages and Tools 🛠️:
 
-[![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com/)
+[![Windows](https://img.shields.io/badge/Windows-80B3FF?style=for-the-badge&labelColor=black&logo=Windows&logoColor=80B3FF)](https://en.wikipedia.org/wiki/Windows)
+[![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&labelColor=black&logo=MacOS&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/MacOS)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](https://en.wikipedia.org/wiki/Linux)
+
+[![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com/)
 [![Intellij](https://img.shields.io/badge/Intellij-FE4164?style=for-the-badge&logo=Intellij&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&labelColor=black&logo=git&logoColor=F03C2E)](https://git-scm.com/)
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/Html/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](https://www.python.org/)
 [![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://www.javascript.com/)
 [![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org/en)
-[![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://nodejs.org/en)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/Html/)
+[![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)
+
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://www.w3schools.com/css/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
-[![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](https://www.python.org/)
+
 [![Azure](https://img.shields.io/badge/Azure-007acc?style=for-the-badge&labelColor=black&logo=azure&logoColor=007acc)](https://azure.microsoft.com/nb-no)
-[![Linux](https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&labelColor=black&logo=linux&logoColor=F0DB4F)](https://en.wikipedia.org/wiki/Linux)
 [![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-[![Blender](https://img.shields.io/badge/Blender-EA7701?style=for-the-badge&labelColor=white&logo=blender&logoColor=F0DB4F)](https://www.blender.org/)
+[![Blender](https://img.shields.io/badge/Blender-EA7701?style=for-the-badge&labelColor=black&logo=blender&logoColor=F0DB4F)](https://www.blender.org/)
 [![Figma](https://img.shields.io/badge/Figma-FD3D39?style=for-the-badge&labelColor=black&logo=figma&logoColor=F0DB4F)](https://www.figma.com/)
 [![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=31A8FF)](https://www.adobe.com/)
 [![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator-271910?style=for-the-badge&labelColor=black&logo=adobeillustrator&logoColor=F0DB4F)](https://www.adobe.com/)
